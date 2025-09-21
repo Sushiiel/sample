@@ -1,3 +1,4 @@
 Flask==2.3.2
-hdbcli==2.15.20
+hdbcli==2.25.31
 gunicorn==20.1.0
+
